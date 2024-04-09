@@ -1,6 +1,17 @@
 {
   "expo": {
     "name": "login",
-    "slug": "login"
+    "slug": "login",
+    "extra": {
+      "eas": {
+        "projectId": "94905925-1064-43c2-9be1-831319271a19"
+      }
+    },
+    "android": {
+      "package": "com.yuvrajsinggh.login"
+    },
+    "ios": {
+      "bundleIdentifier": "com.yuvrajsinggh.login"
+    }
   }
 }
